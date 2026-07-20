@@ -28,3 +28,4 @@
 ## 公開
 
 GitHub Pages、Cloudflare Pages、Netlifyなどで無料公開できます。
+Updated on July 20.
